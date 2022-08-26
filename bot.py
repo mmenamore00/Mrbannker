@@ -39,14 +39,10 @@ BOT_ID = bot_info.id
 
 # USE YOUR ROTATING PROXY API IN DICT FORMAT http://user:pass@providerhost:port
 proxies = {
-           'http': 'http://irkltmyj-rotate:f2oyleso9r2u@p.webshare.io:80/',
-           'http': 'http://irkltmyj-rotate:f2oyleso9r2u@p.webshare.io:80/',
-           'http': 'http://drhdnqxq-rotate:9g4otsb2o2wz@p.webshare.io:80/',
-           'http': 'http://drhdnqxq-rotate:9g4otsb2o2wz@p.webshare.io:80/',
-           'http': 'http://ugeibegc-rotate:qbj5qmrqs7rw@p.webshare.io:80/',
-           'http': 'http://ugeibegc-rotate:qbj5qmrqs7rw@p.webshare.io:80/',
-           'http': 'http://ugeibegc-rotate:qbj5qmrqs7rw@p.webshare.io:80/',
-           'http': 'http://ugeibegc-rotate:qbj5qmrqs7rw@p.webshare.io:80/'
+           'http': 'http://fokmsspb-rotate:ip1w1ju74nji@p.webshare.io:80/',
+           'https': 'http://fokmsspb-rotate:ip1w1ju74nji@p.webshare.io:80/',
+           
+          
 }
 
 session = requests.Session()
